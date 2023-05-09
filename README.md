@@ -4,6 +4,8 @@ Simulation of the learning process of gait retraining using real-time feedback i
 
 The aim of this study was to investigate the gait retraining process of patients with knee osteoarthritis (KOA) to change their foot advancement angle (FPA) during a six-week walking training program. Sixteen patients with KOA underwent a six-week gait training program with real-time biofeedback. Patients walked on a treadmill while receiving real-time feedback from the foot advancement angle (FPA) pointing to a target angle. The difference is FPA (angle difference between target and actual). The possible modes are: (a) natural walking, (b) walking with feedback, (c) walking without feedback, (d) walking with a dual task at the beginning and end of the training program with stroop test.
 
+![knee matlab table](https://github.com/RoshaSoft/MATLAB-Simulation-/assets/85801966/80607973-86fe-4577-8b44-49134eb2c262)
+
 (A): The FPA difference during normal walking decreased significantly from a mean of 6.9 to a mean of 3.6 degrees, i.e., a mean difference of 3.3 degrees at week 6.
 That is, there is a 14.7% improvement in natural walking.
 
