@@ -17,7 +17,7 @@ That is, there is 80.9% improvement in walking by adding feedback.
 That is, there is a 77.8% improvement in walking by adding feedback.
 As a result, in patients with internal KOA, they can reduce the FPA difference during normal walking after walking retraining. But sometimes it may be necessary to support more permanent feedback using wearable technologies.
 
-![knee](https://github.com/RoshaSoft/MATLAB-Simulation-/assets/85801966/dfb40003-b655-405c-8317-15257e4037c6)
+
 
 
 Introduction
@@ -88,14 +88,25 @@ In conclusion, KOA patients reduced FPA difference and increased target steps af
 
 References
 [1] F. Herold, P. Wiegel, F. Scholkmann, A. Thiers, D. Hamacher, L. Schega, Functional near-infrared spectroscopy in movement science: a systematic review on cortical activity in postural and walking tasks, Neurophotonics 4 (2017) Available online.
+
 [2] P.B. Shull, R. Shultz, A. Silder, J.L. Dragoo, T.F. Besier, M.R. Cutkosky, et al., Toe-in gait reduces the first peak knee adduction moment in patients with medial compartment knee osteoarthritis, J. Biomech. 46 (2013) 122–128. 
-[3] P.B. Shull, A. Silder, R. Shultz, J.L. Dragoo, T.F. Besier, S.L. Delp, et al., Six-week gait retraining program reduces knee adduction moment, reduces pain, and improves function for individuals with medial compartment knee osteoarthritis, J. Orthop. Res. 31 (2013) 1020–1025. 
+
+[3] P.B. Shull, A. Silder, R. Shultz, J.L. Dragoo, T.F. Besier, S.L. Delp, et al., Six-week gait retraining program reduces knee adduction moment, reduces pain, and improves function for individuals with medial compartment knee osteoarthritis, J. Orthop. Res. 31 (2013) 1020–1025.
+
 [4] M.A. Hunt, J. Takacs, Effects of a 10-week toe-out gait modification intervention in people with medial knee osteoarthritis: a pilot, feasibility study, Osteoarthr. Cartil. 22 (2014) 904–911. 
+
 [5] M. Simic, T.V. Wrigley, R.S. Hinman, M.A. Hunt, K.L. Bennell, Altering foot progression angle in people with medial knee osteoarthritis: the effects of varying toein and toe-out angles are mediated by pain and malalignment, Osteoarthr. Cartil. 21 (2013) 1272–1280. 
+
 [6] H.J. Bennett, S. Zhang, G. Shen, J.T. Weinhandl, M.R. Paquette, J. Reinbolt, et al. Effects of toe-in and wider step width in stair ascent with different knee alignments, Med. Sci. Sports Exerc. 49 (2017) 563–572. 
+
 [7] M.R. Paquette, G. Klipple, S. Zhang, Greater step widths reduce internal knee abduction moments in medial compartment knee osteoarthritis patients during stair ascent, J. Appl. Biomech. 31 (2015) 229–236. 
+
 [8] R. Richards, J.C. van den Noort, J. Dekker, J. Harlaar, Gait retraining with realTime biofeedback to reduce knee adduction moment: systematic review of effects and methods used, Arch. Phys. Med. Rehabil. 98 (2017) 137–150. 
+
 [9] R.E. Richards, J.C. van den Noort, M. van der Esch, M.J. Booij, J. Harlaar, Effect of real-time biofeedback on peak knee adduction moment in patients with medial knee osteoarthritis: is direct feedback effective? Clin. Biomech. (Bristol, Avon) (2017).
+
 [10] J.C. van den Noort, F. Steenbrink, S. Roeles, J. Harlaar, Real-time visual feedback for gait retraining: toward application in knee osteoarthritis, Med. Biol. Eng. Comput. 53 (2015) 275–286.
+
 [11] N. Shkuratova, M.E. Morris, F. Huxham, Effects of age on balance control during walking, Arch. Phys. Med. Rehabil. 85 (2004) 582–588.
+
 [12] 1994-2021 The MathWorks, Inc. Available online. https://www.mathworks.com/help/physmod/sm/ug/joint-actuation.html.
